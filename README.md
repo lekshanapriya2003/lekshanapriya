@@ -36,9 +36,6 @@ Focused on scalable ML systems, performance optimization, and real-world deploym
   <!-- Programming Languages -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
-
-  <br>
-
   <!-- Data Analysis -->
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
@@ -47,9 +44,6 @@ Focused on scalable ML systems, performance optimization, and real-world deploym
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
   <img src="https://img.shields.io/badge/Feature%20Engineering-FF7F50?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/EDA-00BFFF?style=for-the-badge&logoColor=white" />
-
-  <br>
-
   <!-- Machine Learning / AI -->
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
@@ -63,18 +57,12 @@ Focused on scalable ML systems, performance optimization, and real-world deploym
   <img src="https://img.shields.io/badge/NER-DAA520?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/NLTK-4B0082?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/spaCy-FF6347?style=for-the-badge&logoColor=white" />
-
-  <br>
-
   <!-- Frameworks -->
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Gradio-FF7F50?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Hugging%20Face-FF9900?style=for-the-badge&logo=huggingface&logoColor=white" />
-
-  <br>
-
   <!-- Tools & IDEs -->
   <img src="https://img.shields.io/badge/Git- F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
