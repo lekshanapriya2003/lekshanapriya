@@ -15,7 +15,7 @@
 <p align="left">
 🎓 M.Sc. in Artificial Intelligence and Data Science.<br>
 💼 Open to entry-level roles in Data Science, AI Engineer, Machine Learning Engineer, Data Analyst, Business Analyst.<br>
-🧠 Strong foundation in Python, SQL, feature engineering, model evaluation, and building end-to-end ML pipelines. Familiar with Power BI for business analytics.<br>
+🧠 Strong foundation in Python, SQL, feature engineering, model evaluation and Power BI for business analytics.<br>
 🌱 Currently advancing in MLOps, LLM applications, RAG systems and production-grade ML deployment.<br>
 📈 Focused on experimentation, performance optimization, and scalable model development.
 </p>
@@ -81,7 +81,7 @@ Power BI dashboard analyzing revenue, profitability, assets, liabilities, and st
 ### 🛒 Blinkit Retail Sales Dashboard
 Interactive Power BI dashboard evaluating sales trends, outlet performance, product distribution, and customer ratings.
 
-## 🎮 League of Legends Esports Analytics
+### 🎮 League of Legends Esports Analytics
 3NF MySQL analytics warehouse with ETL pipelines, analytical views, and stored procedures for champion, team, and match performance analysis.
 
 ### 🏢 Employee Payroll & HR Analytics Database
