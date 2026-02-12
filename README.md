@@ -1,66 +1,97 @@
-<p align="center">
-  <img src="your-photo.jpg" width="180" style="border-radius:50%;" />
-</p>
-
-<h1 align="center">Nandini V</h1>
+<h1 align="center">Hi 👋, I'm Lekshana Priya</h1>
 
 <p align="center">
-Data Analyst | Machine Learning Enthusiast | SQL & Power BI Developer
+  <img src="your-photo-link-here" width="180" style="border-radius:50%;" />
+</p>
+
+<h3 align="center">Data Science | Machine Learning | Analytics Engineering</h3>
+
+<p align="center">
+🚀 Building data-driven systems that transform complex data into measurable business impact.
 </p>
 
 ---
 
-## About Me
-
-I am a data-driven professional with hands-on experience in machine learning, deep learning, SQL-based data warehousing, and business intelligence analytics. I build end-to-end analytical systems including data preprocessing, model development, deployment, and dashboard visualization.
-
----
-
-## Projects
-
-Lung Disease Prediction Web App  
-Built a medical ML application using Orange3 and image texture analysis to predict early-stage lung diseases.
-
-Image Caption Generator  
-Developed an LSTM-based NLP and computer vision model using PyTorch to generate human-like captions for images.
-
-Crop Yield Prediction  
-Developed a TensorFlow regression model to recommend optimal crops using soil and climate data and deployed the application using Gradio for interactive predictions.
-
-Apple Equity Forecast Engine  
-Built a stacked LSTM time-series forecasting model to predict AAPL closing prices with preprocessing, scaling, RMSE evaluation, multi-step forecasting, and deployed the model using Streamlit and Hugging Face.
-
-Smart Farming Hub – Plant Disease Detection  
-Developed a transfer learning–based CNN model in PyTorch for plant disease classification from leaf images with data augmentation and deployed the application using Gradio.
-
-Blinkit Store Performance Analytics  
-Built a comprehensive Power BI financial analytics dashboard to evaluate revenue, net income, assets, liabilities, borrowings, and stock-level performance using balance sheet and income statement data.
-
-Blinkit Retail Sales Dashboard  
-Designed an interactive Power BI dashboard analyzing total sales, outlet performance, item distribution, and customer ratings across locations and outlet types.
-
-League of Legends Esports Analytics  
-Built a 3NF MySQL esports analytics warehouse integrating multi-source CSV data with ETL pipelines, analytical views, and stored procedures to compute champion win rates, side advantages, and team performance metrics.
-
-Employee Payroll & HR Analytics Database  
-Built a normalized MySQL HR and payroll analytics system integrating multi-table ETL and advanced SQL queries to analyze workforce distribution, compensation structure, leave trends, and departmental salary allocation.
+## 🎓 Education
+**M.Sc. in Artificial Intelligence and Data Science**
 
 ---
 
-## Technical Skills
+## 💼 Career Focus
+Open to entry-level roles in:
+- Data Science  
+- Machine Learning Engineering  
+- AI Engineering  
+- Data Analyst / Business Analyst  
 
-Programming: Python, SQL  
-Machine Learning: TensorFlow, PyTorch, Scikit-learn  
-Deep Learning: CNN, LSTM, Transfer Learning  
-Data Visualization: Power BI, Matplotlib  
-Database Systems: MySQL  
-Deployment Tools: Gradio, Streamlit, Hugging Face  
-Tools: Git, GitHub, Jupyter Notebook
+Focused on scalable ML systems, performance optimization, and real-world deployment.
 
 ---
 
-## GitHub Stats
+## 🛠 Technical Stack
 
-<!-- Optional: Add GitHub stats card if you want -->
-<!-- Replace username accordingly -->
+### Programming
+Python | SQL | OOP
 
+### ML & Deep Learning
+Pandas | NumPy | Scikit-learn | XGBoost  
+TensorFlow | PyTorch | LSTM | CNN | Transfer Learning  
+
+### Deployment & Tools
+Gradio | Streamlit | Hugging Face Spaces  
+Power BI | MySQL | ETL Pipelines  
+
+### Currently Exploring
+MLOps | RAG Systems | LLM Applications | Production ML Deployment
+
+---
+
+# 🚀 Featured Projects
+
+---
+
+## 🌾 Crop Yield Prediction
+TensorFlow-based regression system predicting optimal crop selection using soil and climate features with interactive Gradio deployment.
+
+---
+
+## 📈 Apple Equity Forecast Engine
+Stacked LSTM time-series forecasting model predicting AAPL closing prices with multi-step forecasting and Streamlit deployment.
+
+---
+
+## 🌿 Smart Farming Hub – Plant Disease Detection
+Transfer learning–based CNN model for plant disease classification from leaf images deployed via Gradio.
+
+---
+
+## 📊 Blinkit Store Performance Analytics
+Power BI dashboard analyzing revenue, profitability, assets, liabilities, and stock-level financial performance.
+
+---
+
+## 🛒 Blinkit Retail Sales Dashboard
+Interactive Power BI dashboard evaluating sales trends, outlet performance, product distribution, and customer ratings.
+
+---
+
+## 🎮 League of Legends Esports Analytics
+3NF MySQL analytics warehouse with ETL pipelines, analytical views, and stored procedures for champion, team, and match performance analysis.
+
+---
+
+## 🏢 Employee Payroll & HR Analytics Database
+Normalized MySQL HR analytics system integrating multi-table ETL and advanced SQL queries for payroll, workforce, and leave analysis.
+
+---
+
+# 🌐 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/lekshana-priya-bb61b1349">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:lekshanapriya@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
