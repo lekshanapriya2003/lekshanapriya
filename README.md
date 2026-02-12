@@ -12,19 +12,11 @@
 
 ---
 
-## 🎓 Education
-**M.Sc. in Artificial Intelligence and Data Science**
-
----
-
-## 💼 Career Focus
-Open to entry-level roles in:
-- Data Science  
-- Machine Learning Engineering  
-- AI Engineering  
-- Data Analyst / Business Analyst  
-
-Focused on scalable ML systems, performance optimization, and real-world deployment.
+🎓 M.Sc. in Artificial Intelligence and Data Science. 
+💼 Open to entry-level roles in Data Science, AI Engineer, Machine Learning Engineer, Data Analyst, Business Analyst. 
+🧠 Strong foundation in Python, SQL, feature engineering, model evaluation, and building end-to-end ML pipelines. Familiar with Power BI for business analytics. 
+🌱 Currently advancing in MLOps, LLM applications, RAG systems and production-grade ML deployment. 
+📈 Focused on experimentation, performance optimization, and scalable model development.
 
 ---
 
@@ -86,22 +78,17 @@ TensorFlow-based regression system predicting optimal crop selection using soil 
 ## 📈 Apple Equity Forecast Engine
 Stacked LSTM time-series forecasting model predicting AAPL closing prices with multi-step forecasting and Streamlit deployment.
 
-
 ## 🌿 Smart Farming Hub – Plant Disease Detection
 Transfer learning–based CNN model for plant disease classification from leaf images deployed via Gradio.
-
 
 ## 📊 Blinkit Store Performance Analytics
 Power BI dashboard analyzing revenue, profitability, assets, liabilities, and stock-level financial performance.
 
-
 ## 🛒 Blinkit Retail Sales Dashboard
 Interactive Power BI dashboard evaluating sales trends, outlet performance, product distribution, and customer ratings.
 
-
 ## 🎮 League of Legends Esports Analytics
 3NF MySQL analytics warehouse with ETL pipelines, analytical views, and stored procedures for champion, team, and match performance analysis.
-
 
 ## 🏢 Employee Payroll & HR Analytics Database
 Normalized MySQL HR analytics system integrating multi-table ETL and advanced SQL queries for payroll, workforce, and leave analysis.
@@ -116,5 +103,8 @@ Normalized MySQL HR analytics system integrating multi-table ETL and advanced SQ
   </a>
   <a href="mailto:lekshanapriya@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/lekshanapriya2003" target="_blank">
+    <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png"/> 
   </a>
 </p>
