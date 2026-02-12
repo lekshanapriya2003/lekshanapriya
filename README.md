@@ -12,11 +12,13 @@
 
 ---
 
+<p align="center">
 🎓 M.Sc. in Artificial Intelligence and Data Science. 
 💼 Open to entry-level roles in Data Science, AI Engineer, Machine Learning Engineer, Data Analyst, Business Analyst. 
 🧠 Strong foundation in Python, SQL, feature engineering, model evaluation, and building end-to-end ML pipelines. Familiar with Power BI for business analytics. 
 🌱 Currently advancing in MLOps, LLM applications, RAG systems and production-grade ML deployment. 
 📈 Focused on experimentation, performance optimization, and scalable model development.
+</p>
 
 ---
 
@@ -43,16 +45,8 @@
   <img src="https://img.shields.io/badge/Classification-00CED1?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Computer%20Vision-FFD700?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge&logo=transformers&logoColor=white" />
-  <img src="https://img.shields.io/badge/Text%20Preprocessing-20B2AA?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/TF--IDF-FF1493?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/BoW-FF4500?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/NER-DAA520?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/NLTK-4B0082?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/spaCy-FF6347?style=for-the-badge&logoColor=white" />
   <!-- Frameworks -->
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Gradio-FF7F50?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Hugging%20Face-FF9900?style=for-the-badge&logo=huggingface&logoColor=white" />
   <!-- Tools & IDEs -->
@@ -71,26 +65,25 @@
 
 ---
 
-## 🌾 Crop Yield Prediction
+### 🌾 Crop Yield Prediction
 TensorFlow-based regression system predicting optimal crop selection using soil and climate features with interactive Gradio deployment.
 
-
-## 📈 Apple Equity Forecast Engine
+### 📈 Apple Equity Forecast Engine
 Stacked LSTM time-series forecasting model predicting AAPL closing prices with multi-step forecasting and Streamlit deployment.
 
-## 🌿 Smart Farming Hub – Plant Disease Detection
+### 🌿 Smart Farming Hub – Plant Disease Detection
 Transfer learning–based CNN model for plant disease classification from leaf images deployed via Gradio.
 
-## 📊 Blinkit Store Performance Analytics
+### 📊 Blinkit Store Performance Analytics
 Power BI dashboard analyzing revenue, profitability, assets, liabilities, and stock-level financial performance.
 
-## 🛒 Blinkit Retail Sales Dashboard
+### 🛒 Blinkit Retail Sales Dashboard
 Interactive Power BI dashboard evaluating sales trends, outlet performance, product distribution, and customer ratings.
 
 ## 🎮 League of Legends Esports Analytics
 3NF MySQL analytics warehouse with ETL pipelines, analytical views, and stored procedures for champion, team, and match performance analysis.
 
-## 🏢 Employee Payroll & HR Analytics Database
+### 🏢 Employee Payroll & HR Analytics Database
 Normalized MySQL HR analytics system integrating multi-table ETL and advanced SQL queries for payroll, workforce, and leave analysis.
 
 ---
