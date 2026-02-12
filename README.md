@@ -12,13 +12,14 @@
 
 ---
 
-<p align="center">
-🎓 M.Sc. in Artificial Intelligence and Data Science. 
-💼 Open to entry-level roles in Data Science, AI Engineer, Machine Learning Engineer, Data Analyst, Business Analyst. 
-🧠 Strong foundation in Python, SQL, feature engineering, model evaluation, and building end-to-end ML pipelines. Familiar with Power BI for business analytics. 
-🌱 Currently advancing in MLOps, LLM applications, RAG systems and production-grade ML deployment. 
+<p align="left">
+🎓 M.Sc. in Artificial Intelligence and Data Science.<br>
+💼 Open to entry-level roles in Data Science, AI Engineer, Machine Learning Engineer, Data Analyst, Business Analyst.<br>
+🧠 Strong foundation in Python, SQL, feature engineering, model evaluation, and building end-to-end ML pipelines. Familiar with Power BI for business analytics.<br>
+🌱 Currently advancing in MLOps, LLM applications, RAG systems and production-grade ML deployment.<br>
 📈 Focused on experimentation, performance optimization, and scalable model development.
 </p>
+
 
 ---
 
