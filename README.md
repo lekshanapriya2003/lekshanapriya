@@ -30,19 +30,46 @@ Focused on scalable ML systems, performance optimization, and real-world deploym
 
 ## 🛠 Technical Stack
 
-### Programming
-Python | SQL | OOP
+<p align="center">
+<b>Skills & Tools</b><br><br>
 
-### ML & Deep Learning
-Pandas | NumPy | Scikit-learn | XGBoost  
-TensorFlow | PyTorch | LSTM | CNN | Transfer Learning  
+<!-- Row 1: Languages & Libraries -->
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-D02F2F?style=for-the-badge&logo=matplotlib&logoColor=white" />
+<img src="https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge&logo=seaborn&logoColor=white" />
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
 
-### Deployment & Tools
-Gradio | Streamlit | Hugging Face Spaces  
-Power BI | MySQL | ETL Pipelines  
+<br><br>
 
-### Currently Exploring
-MLOps | RAG Systems | LLM Applications | Production ML Deployment
+<!-- Row 2: ML / AI & NLP -->
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge&logo=transformers&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-3F729B?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/NLTK-4B0082?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/spaCy-FF6347?style=for-the-badge&logoColor=white" />
+
+<br><br>
+
+<!-- Row 3: Frameworks & Tools -->
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Gradio-FF7F50?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Hugging%20Face-FF9900?style=for-the-badge&logo=huggingface&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C80F?style=for-the-badge&logo=power-bi&logoColor=white" />
+
+</p>
+
 
 ---
 
@@ -53,32 +80,26 @@ MLOps | RAG Systems | LLM Applications | Production ML Deployment
 ## 🌾 Crop Yield Prediction
 TensorFlow-based regression system predicting optimal crop selection using soil and climate features with interactive Gradio deployment.
 
----
 
 ## 📈 Apple Equity Forecast Engine
 Stacked LSTM time-series forecasting model predicting AAPL closing prices with multi-step forecasting and Streamlit deployment.
 
----
 
 ## 🌿 Smart Farming Hub – Plant Disease Detection
 Transfer learning–based CNN model for plant disease classification from leaf images deployed via Gradio.
 
----
 
 ## 📊 Blinkit Store Performance Analytics
 Power BI dashboard analyzing revenue, profitability, assets, liabilities, and stock-level financial performance.
 
----
 
 ## 🛒 Blinkit Retail Sales Dashboard
 Interactive Power BI dashboard evaluating sales trends, outlet performance, product distribution, and customer ratings.
 
----
 
 ## 🎮 League of Legends Esports Analytics
 3NF MySQL analytics warehouse with ETL pipelines, analytical views, and stored procedures for champion, team, and match performance analysis.
 
----
 
 ## 🏢 Employee Payroll & HR Analytics Database
 Normalized MySQL HR analytics system integrating multi-table ETL and advanced SQL queries for payroll, workforce, and leave analysis.
