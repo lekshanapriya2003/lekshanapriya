@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lekshana Priya</h1>
 
 <p align="center">
-  <img src="your-photo-link-here" width="180" style="border-radius:50%;" />
+  <img src="https://github.com/lekshanapriya2003/lekshanapriya/blob/main/Photo.jpeg" width="180" style="border-radius:50%;" />
 </p>
 
 <h3 align="center">Data Science | Machine Learning | Analytics Engineering</h3>
